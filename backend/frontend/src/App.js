@@ -327,7 +327,7 @@ export default function App() {
       </main>
 
       <footer className="footer">
-        <span>RapidCanvas · Post Explainer · 2025</span>
+        <span>RapidCanvas · Post Explainer · 2026</span>
       </footer>
     </div>
   );
